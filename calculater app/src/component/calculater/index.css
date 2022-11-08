@@ -1,0 +1,30 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  /* background-color: rgba(0, 0, 0, 0.607); */
+}
+
+.main-container {
+  /* display: flex; */
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  border: solid 2px solid black;
+  margin: 20px;
+}
+
+.input {
+  margin: 20px;
+  align-items: center;
+  text-align: center;
+}
+
+.btn {
+  
+  display: flex;
+  
+  align-items: center;
+  text-align: center;
+
+}
